@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=GND Pin=U?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Add Component: Footprint Not Found 0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER
+Add Component: Footprint Not Found 0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER
+Add Component: Footprint Not Found 0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER
+Add Component: Footprint Not Found 0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER
+Add Component: Footprint Not Found 0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER
+Add Component: Footprint Not Found MC-306
+Add Component: Footprint Not Found OSC-49S-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetIC?_1" already exists
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=U1-23
+Added Pin To Net: NetName=NetU1_8 Pin=U1-35
+Added Pin To Net: NetName=NetU1_8 Pin=U1-47
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U1-24
+Added Pin To Net: NetName=NetU1_9 Pin=U1-36
+Added Pin To Net: NetName=NetU1_9 Pin=U1-48
+Added Net: Name=NetU1_9
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 20pF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 4.7uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 10uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 20pF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 20pF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 10uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 0.1uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 220uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 22uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 1uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component D? SS34
+Added Member To Class: ClassName=Gateway_Schematic Member=Component IC? LM317
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 10K/R0805/1%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 240
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 240
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 220
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 390
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 470
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 750
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 0R/R0805/1%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=Gateway_Schematic Member=Component U? ESP-WROOM-32
+Add Class Member: Failed to add class member : Component X? 32.768KHz
+Add Class Member: Failed to add class member : Component X? 8MHz

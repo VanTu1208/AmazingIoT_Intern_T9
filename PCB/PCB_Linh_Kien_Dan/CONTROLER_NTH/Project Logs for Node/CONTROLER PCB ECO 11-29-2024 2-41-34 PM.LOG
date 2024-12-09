@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=PB0 Pin=R4-1
+Added Pin To Net: NetName=PB0 Pin=U1-18
+Added Net: Name=PB0
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 5_RELAY
+Added Member To Class: ClassName=CONTROLER Member=Component JP? LORA 8000M
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 5_RELAY
+Added Room: Name=CONTROLER

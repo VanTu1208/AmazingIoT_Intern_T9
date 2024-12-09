@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=PB1/REL13 Pin=JP5-6
+Added Pin To Net: NetName=PB1/REL13 Pin=U2-19
+Added Net: Name=PB1/REL13
+Added Pin To Net: NetName=PB3/REL14 Pin=JP5-7
+Added Pin To Net: NetName=PB3/REL14 Pin=U2-39
+Added Net: Name=PB3/REL14
+Added Pin To Net: NetName=PB6 Pin=U2-42
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=U2-43
+Added Net: Name=PB7
+Added Member To Class: ClassName=Gateway_1_Schematic Member=Component JP3 JP 2x3 2.54

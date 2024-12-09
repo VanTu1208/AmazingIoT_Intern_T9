@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=12V Pin=U2-1
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=5V Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-6
+Removed Member From Class: ClassName=Node_Schematic Member=U2
+Added Pin To Net: NetName=12V Pin=U5-1
+Added Pin To Net: NetName=NetD1_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=5V Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Room: Name=Node_Schematic

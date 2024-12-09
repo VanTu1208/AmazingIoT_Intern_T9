@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=UART NewDesignator=JP4
+Added Member To Class: ClassName=Node_Schematic Member=Component JP5 LORA
+Added Room: Name=Node_Schematic

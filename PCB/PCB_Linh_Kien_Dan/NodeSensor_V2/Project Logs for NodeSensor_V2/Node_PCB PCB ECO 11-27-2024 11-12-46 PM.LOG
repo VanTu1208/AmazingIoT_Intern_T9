@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=R8-1
+Removed Pin From Net: NetName=5V Pin=USB?-1
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=USB?-1
+Added Net: Name=VCC
+Added Room: Name=Node_Schematic

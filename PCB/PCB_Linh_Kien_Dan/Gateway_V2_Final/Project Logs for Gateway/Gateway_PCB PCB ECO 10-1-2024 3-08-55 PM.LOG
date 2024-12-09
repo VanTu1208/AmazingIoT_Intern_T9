@@ -1,0 +1,52 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP3_5
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_1" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_2" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetJ?_3" already exists
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetJ?_4" already exists
+Add Net: Net with name "NetJ?_5" already exists
+Add Net: Net with name "NetJ?_5" already exists
+Add Net: Net with name "NetJ?_5" already exists
+Add Net: Net with name "NetJ?_6" already exists
+Add Net: Net with name "NetJ?_6" already exists
+Add Net: Net with name "NetJ?_6" already exists
+Add Net: Net with name "NetJ?_7" already exists
+Add Net: Net with name "NetJ?_7" already exists
+Add Net: Net with name "NetJ?_8" already exists
+Add Net: Net with name "NetJ?_8" already exists
+Add Net: Net with name "NetJ?_9" already exists
+Add Net: Net with name "NetJ?_9" already exists
+Add Net: Net with name "NetJ?_10" already exists
+Add Net: Net with name "NetJ?_10" already exists
+Add Net: Net with name "NetJ?_10" already exists
+Add Net: Net with name "NetJ?_11" already exists
+Add Net: Net with name "NetJ?_11" already exists
+Add Net: Net with name "NetJ?_11" already exists
+Add Net: Net with name "NetJ?_12" already exists
+Add Net: Net with name "NetJ?_12" already exists
+Add Net: Net with name "NetJ?_12" already exists
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C1 100uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component J? KF350-12P
+Added Member To Class: ClassName=Gateway_Schematic Member=Component J? KF350-12P
+Added Member To Class: ClassName=Gateway_Schematic Member=Component J? KF350-12P
+Added Member To Class: ClassName=Gateway_Schematic Member=Component J? KF350-12P
+Added Member To Class: ClassName=Gateway_Schematic Member=Component JP2 JP 1x6 2.54
+Added Member To Class: ClassName=Gateway_Schematic Member=Component JP3 JP 2x3 2.54
+Added Member To Class: ClassName=Gateway_Schematic Member=Component LED14 GREEN 0805
+Added Member To Class: ClassName=Gateway_Schematic Member=Component O10 OPTO PC817 SMD
+Added Member To Class: ClassName=Gateway_Schematic Member=Component Q1 DTC143ZKAT146
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R32 2.2k
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 1M
+Added Member To Class: ClassName=Gateway_Schematic Member=Component RE5 JQC-3FF-S-Z
+Added Member To Class: ClassName=Gateway_Schematic Member=Component SW1 RST
+Added Member To Class: ClassName=Gateway_Schematic Member=Component U1 ESP-WROOM-32
+Added Member To Class: ClassName=Gateway_Schematic Member=Component Y2 ABS25-32.768KHZ-T

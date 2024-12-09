@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=XH1-1
+Removed Pin From Net: NetName=PA2/U2_TX Pin=XH1-2
+Removed Pin From Net: NetName=PA3/U2_RX Pin=XH1-3
+Removed Pin From Net: NetName=GND Pin=XH1-4
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator=SW LORA NewDesignator=SW3
+Added Pin To Net: NetName=GND Pin=XH1-1
+Added Pin To Net: NetName=PA3/U2_RX Pin=XH1-2
+Added Pin To Net: NetName=PA2/U2_TX Pin=XH1-3
+Added Pin To Net: NetName=5V Pin=XH1-4
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component LED3 LED 5mm

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PA11 Pin=R11-2
+Removed Pin From Net: NetName=PA12 Pin=R12-2
+Removed Pin From Net: NetName=5V Pin=R13-1
+Removed Pin From Net: NetName=PA12 Pin=R13-2
+Removed Pin From Net: NetName=5V Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Member From Class: ClassName=Node_Schematic Member=R11
+Removed Member From Class: ClassName=Node_Schematic Member=R12
+Removed Member From Class: ClassName=Node_Schematic Member=R13
+Removed Member From Class: ClassName=Node_Schematic Member=U4
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Room: Name=Node_Schematic

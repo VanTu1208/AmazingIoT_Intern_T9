@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=BUZZER NewDesignator=LS1
+Added Pin To Net: NetName=D0 Pin=JP1-8
+Added Pin To Net: NetName=D0 Pin=U1-45
+Added Net: Name=D0
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Member To Class: ClassName=Node_Schematic Member=Component R2 100k
+Added Member To Class: ClassName=Node_Schematic Member=Component U1 STM32F103C8T6
+Added Room: Name=Node_Schematic

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PB7/REL16 Pin=-1
+Removed Pin From Net: NetName=PB6/REL15 Pin=-2
+Removed Pin From Net: NetName=PB5/REL14 Pin=-3
+Removed Pin From Net: NetName=PB4/REL13 Pin=-4
+Removed Pin From Net: NetName=PB3/REL12 Pin=-5
+Removed Pin From Net: NetName=NetC9_6 Pin=-6
+Removed Pin From Net: NetName=GND Pin=-7
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=
+Change Component Designator: OldDesignator=SW LORA NewDesignator=SW3
+Added Component: Designator=C9(JP7-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB7/REL16 Pin=C9-1
+Added Pin To Net: NetName=PB6/REL15 Pin=C9-2
+Added Pin To Net: NetName=PB5/REL14 Pin=C9-3
+Added Pin To Net: NetName=PB4/REL13 Pin=C9-4
+Added Pin To Net: NetName=PB3/REL12 Pin=C9-5
+Added Pin To Net: NetName=NetC9_6 Pin=C9-6
+Added Pin To Net: NetName=GND Pin=C9-7
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C9 JP7

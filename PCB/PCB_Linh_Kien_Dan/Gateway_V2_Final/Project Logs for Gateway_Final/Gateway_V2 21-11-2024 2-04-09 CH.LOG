@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MISO Pin=JP1-1
+Removed Pin From Net: NetName=SCK Pin=JP1-2
+Removed Pin From Net: NetName=RST(PB13) Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Pin From Net: NetName=NSS Pin=JP1-6
+Removed Pin From Net: NetName=MOSI Pin=JP1-7
+Removed Pin From Net: NetName=PB12 Pin=JP1-8
+Removed Pin From Net: NetName=3V3 Pin=SW4-2
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=JP1
+Added Pin To Net: NetName=PB3/REL12 Pin=C?-1
+Added Pin To Net: NetName=PB4/REL13 Pin=C?-2
+Added Pin To Net: NetName=PB5/REL14 Pin=C?-3
+Added Pin To Net: NetName=PB6/REL15 Pin=C?-4
+Added Pin To Net: NetName=PB7/REL16 Pin=C?-5
+Added Pin To Net: NetName=GND Pin=C?-7
+Added Pin To Net: NetName=3V3 Pin=SW4-1
+Added Pin To Net: NetName=NetC?_6 Pin=C?-6
+Added Pin To Net: NetName=NetC?_6 Pin=SW4-2
+Added Net: Name=NetC?_6

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MISO Pin=PLUG-06
+Removed Pin From Net: NetName=MOSI Pin=PLUG-07
+Removed Pin From Net: NetName=PA10 Pin=SW1-1
+Removed Pin From Net: NetName=PA9 Pin=SW1-2
+Added Pin To Net: NetName=D0 Pin=JP?-2
+Added Pin To Net: NetName=MOSI Pin=PLUG1-02
+Added Pin To Net: NetName=RST Pin=PLUG1-04
+Added Pin To Net: NetName=NSS Pin=PLUG-05
+Added Pin To Net: NetName=SCK Pin=PLUG-06
+Added Pin To Net: NetName=MISO Pin=PLUG-07
+Added Pin To Net: NetName=PA12 Pin=SW1-1
+Added Pin To Net: NetName=PA11 Pin=SW1-2
+Added Pin To Net: NetName=PA15 Pin=U1-38
+Added Room: Name=Node_Schematic

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB4/REL13 Pin=2-
+Change Component Footprint: Designator=SW3 Old Footprint=SW1-SMD New Footprint=SW-DIP1
+Change Component Comment : Designator=SW3 Old Comment=FLASH New Comment=SW
+Change Component Designator: OldDesignator=2 NewDesignator=C9
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "SW1-SMD"; UniqueID = "\NBDOSPEO" ("\NBDOSPEO")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C9-4

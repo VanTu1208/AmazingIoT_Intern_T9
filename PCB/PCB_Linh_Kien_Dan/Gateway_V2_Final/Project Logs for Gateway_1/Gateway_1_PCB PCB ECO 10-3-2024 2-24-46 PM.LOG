@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=IO4/INT Pin=LORA-3
+Added Pin To Net: NetName=IO5 Pin=U1-29
+Added Pin To Net: NetName=PB0 Pin=U2-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=U2-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB6/REL13 Pin=JP5-6
+Added Pin To Net: NetName=PB6/REL13 Pin=U2-42
+Added Net: Name=PB6/REL13
+Added Pin To Net: NetName=PB7/REL12 Pin=JP5-5
+Added Pin To Net: NetName=PB7/REL12 Pin=U2-43
+Added Net: Name=PB7/REL12
+Added Member To Class: ClassName=Gateway_1_Schematic Member=Component JP3 JP 2x3 2.54

@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=3V3-5V
+Change Component Designator: OldDesignator=JP? NewDesignator=GND_3P
+Added Pin To Net: NetName=PC13 Pin=U1-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Node_Schematic Member=Component 3V3-5V
+Added Member To Class: ClassName=Node_Schematic Member=Component GND_3P GND
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? HEADER_7RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? LORA 8000M

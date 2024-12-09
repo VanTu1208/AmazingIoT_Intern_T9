@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PB5/REL14 Pin=JP1-1
+Removed Pin From Net: NetName=PB6/REL15 Pin=JP1-2
+Added Pin To Net: NetName=IO12/MISO Pin=JP1-1
+Added Pin To Net: NetName=IO14/SCK Pin=JP1-2
+Added Pin To Net: NetName=IO13/MOSI Pin=JP1-7

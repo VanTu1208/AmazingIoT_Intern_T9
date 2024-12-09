@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3.3V_ESP Pin=R14-1
+Removed Pin From Net: NetName=NetLED2_1 Pin=R14-2
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=R14
+Added Component: Designator=R?(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_ESP Pin=R?-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R?-2
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C3 224
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R? 1k

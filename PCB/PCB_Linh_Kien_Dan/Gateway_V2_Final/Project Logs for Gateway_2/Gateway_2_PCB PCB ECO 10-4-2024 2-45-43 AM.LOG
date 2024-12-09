@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP7
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component BUZ Buzzer 12095
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C2 100uF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C4 1000uF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C5 0.1uF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C6 10uF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C7 0.1uF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C12 20pF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C15 20pF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component C18 100nF
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component D1 SS34
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP1 JP 1x6 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP2 JP 1x6 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP3 JP 2x3 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP5 JP 1x10 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP7 JP 1x4 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component L2 100uH - 3A SMD
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component LED2 LED 3mm
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component LORA JP 2x4 2.54
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component Q4 2N3904
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R1 10k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R3 1k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R4 1k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R5 10k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R6 0R
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R8 100k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R14 1k
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component R16 220R
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component U1 ESP-WROOM-32
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component U2 STM32F103C8T6
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component U4 LM2576S-3.3
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component Y1 ABLS2-8.000MHZ-D4Y-T

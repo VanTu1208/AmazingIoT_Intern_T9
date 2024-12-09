@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PA10/REL9 Pin=JP2-2
+Removed Pin From Net: NetName=PA11/REL10 Pin=JP2-3
+Removed Pin From Net: NetName=PA12/REL11 Pin=JP2-4
+Removed Pin From Net: NetName=PB3/REL12 Pin=JP2-5
+Removed Pin From Net: NetName=PB4/REL13 Pin=JP2-6
+Removed Pin From Net: NetName=PB5/REL14 Pin=JP2-7
+Removed Pin From Net: NetName=PB6/REL15 Pin=JP2-8
+Removed Pin From Net: NetName=PB7/REL16 Pin=JP2-9
+Removed Pin From Net: NetName=PA8/REL7 Pin=S1-5
+Removed Pin From Net: NetName=PA0/REL1 Pin=S1-6
+Removed Pin From Net: NetName=PA9/REL8 Pin=S1-8
+Added Pin To Net: NetName=PB14 Pin=JP2-2
+Added Pin To Net: NetName=PB15 Pin=JP2-3
+Added Pin To Net: NetName=PA8/REL7 Pin=JP2-4
+Added Pin To Net: NetName=PA9/REL8 Pin=JP2-5
+Added Pin To Net: NetName=PA10/REL9 Pin=JP2-6
+Added Pin To Net: NetName=PA11/REL10 Pin=JP2-7
+Added Pin To Net: NetName=PA12/REL11 Pin=JP2-8
+Added Pin To Net: NetName=PA15 Pin=JP2-9
+Added Pin To Net: NetName=PA0/REL1 Pin=S1-8
+Added Pin To Net: NetName=PA4 Pin=S1-6
+Added Pin To Net: NetName=PA4 Pin=U2-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=S1-5
+Added Pin To Net: NetName=PA5 Pin=U2-15
+Added Net: Name=PA5

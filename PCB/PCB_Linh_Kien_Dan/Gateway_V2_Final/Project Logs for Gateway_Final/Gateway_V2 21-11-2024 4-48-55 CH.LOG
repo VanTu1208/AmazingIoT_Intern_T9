@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=C10
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C3 4.7uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C4 100uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C6 100uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C7 1000uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C8 10uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C11 JP7
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C13 104
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C15 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C16 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C17 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C19 100nF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C21 100nF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C22 100nF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C23 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R1 10k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R7 10k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R8 1k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R11 10k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R12 4.7k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R13 10k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R14 1k
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R17 220R
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component R18 220R
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component SW4 FLASH
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component U2 LM2576S-5.0
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component U4 STM32F103C8T6

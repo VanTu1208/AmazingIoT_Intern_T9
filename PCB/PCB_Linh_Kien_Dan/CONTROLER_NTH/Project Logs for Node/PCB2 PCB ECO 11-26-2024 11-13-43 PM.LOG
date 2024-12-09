@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=5V Pin=PLUG1-01
+Removed Pin From Net: NetName=MOSI Pin=PLUG1-02
+Removed Pin From Net: NetName=PA15 Pin=PLUG1-03
+Removed Pin From Net: NetName=RST Pin=PLUG1-04
+Removed Pin From Net: NetName=PB1 Pin=PLUG1-05
+Removed Pin From Net: NetName=PB3 Pin=PLUG1-06
+Removed Pin From Net: NetName=PB4 Pin=PLUG1-07
+Removed Pin From Net: NetName=PB5 Pin=PLUG1-08
+Removed Pin From Net: NetName=GND Pin=PLUG1-09
+Removed Pin From Net: NetName=5V Pin=PLUG-01
+Removed Pin From Net: NetName=PA1 Pin=PLUG-02
+Removed Pin From Net: NetName=PA2 Pin=PLUG-03
+Removed Pin From Net: NetName=PA3 Pin=PLUG-04
+Removed Pin From Net: NetName=NSS Pin=PLUG-05
+Removed Pin From Net: NetName=MISO Pin=PLUG-06
+Removed Pin From Net: NetName=GND Pin=PLUG-08
+Removed Member From Class: ClassName=Node_Schematic Member=H?
+Removed Member From Class: ClassName=Node_Schematic Member=PLUG1
+Removed Member From Class: ClassName=Node_Schematic Member=PLUG
+Added Component: Designator=JP?(JP 1x8 DC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Cong Ð?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x9 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=MOSI Pin=JP?-2
+Added Pin To Net: NetName=PA1 Pin=JP?-2
+Added Pin To Net: NetName=PA2 Pin=JP?-3
+Added Pin To Net: NetName=PA15 Pin=JP?-3
+Added Pin To Net: NetName=PA3 Pin=JP?-4
+Added Pin To Net: NetName=RST Pin=JP?-4
+Added Pin To Net: NetName=NSS Pin=JP?-5
+Added Pin To Net: NetName=PB1 Pin=JP?-5
+Added Pin To Net: NetName=PB3 Pin=JP?-6
+Added Pin To Net: NetName=SCK Pin=JP?-6
+Added Pin To Net: NetName=MISO Pin=JP?-7
+Added Pin To Net: NetName=PB4 Pin=JP?-7
+Added Pin To Net: NetName=GND Pin=JP?-8
+Added Pin To Net: NetName=PB5 Pin=JP?-8
+Added Pin To Net: NetName=GND Pin=JP?-9
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? HEADER_6RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? HEADER_7RELAY

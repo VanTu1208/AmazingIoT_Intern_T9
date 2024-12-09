@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C10 Old Footprint=tu nhom 4 (b) New Footprint=tu tantalum smd7343
+Change component parameters: Designator = "C10" ("C10"); Footprint = "tu nhom 4 (b)"; UniqueID = "\MFTMYQQQ" ("\MFTMYQQQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001955"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 106V-10uF 35V SMD7343"; VariantName = "[No Variations]"

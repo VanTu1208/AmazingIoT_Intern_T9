@@ -1,0 +1,55 @@
+Remove Pin=JACK DC?-1 From Net=12V
+Remove Pin=JP?-2 From Net=D0
+Remove Pin=LS1-P From Net=PB1
+Remove Pin=PLUG1-02 From Net=MOSI
+Remove Pin=PLUG1-04 From Net=RST
+Remove Pin=PLUG-05 From Net=NSS
+Remove Pin=PLUG-06 From Net=SCK
+Remove Pin=SW1-1 From Net=PA12
+Remove Pin=SW1-2 From Net=PA11
+Remove Pin=U1-38 From Net=PA15
+Change Component Footprint: Designator=SW1 Old Footprint=418117170908 New Footprint=418117270908
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X140N New Footprint=tu tantalum dip5.08
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X140N New Footprint=tu tantalum dip5.08
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X140N New Footprint=tu tantalum dip5.08
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X140N New Footprint=tu tantalum dip5.08
+Change Component Footprint: Designator=LS1 Old Footprint=CUI_CEM-1203(42) New Footprint=FP-MCKPX-G1203A-K4056-MFG
+Change Component Footprint: Designator=J1 Old Footprint=TE_796740-2 New Footprint=KF128-5.08-2P
+Change Component Footprint: Designator=J2 Old Footprint=TE_796740-3 New Footprint=KF128-5.08-3P
+Change Component Footprint: Designator=R1 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R2 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R3 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R5 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R11 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R12 Old Footprint=tro smd 0603 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R4 Old Footprint=tro smd 0805 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=R10 Old Footprint=tro smd 2512 New Footprint=tro vach 1/4w
+Change Component Footprint: Designator=C5 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C6 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C7 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C10 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C11 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C13 Old Footprint=tu 0805 New Footprint=tu gom
+Change Component Footprint: Designator=C8 Old Footprint=tu tantalum smd3528 New Footprint=tu hoa 5mm
+Change Component Footprint: Designator=C9 Old Footprint=tu tantalum smd3528 New Footprint=tu hoa 5mm
+Change Component Footprint: Designator=C12 Old Footprint=tu tantalum smd3528 New Footprint=tu hoa 5mm
+Change Component Comment: Designator=R4 Old Comment=200k New Comment=200R
+Change Component Comment: Designator=J2 Old Comment=796740-3 New Comment=KF128-3P
+Change Component Comment: Designator=SW1 Old Comment=418117170908 New Comment=418117270908
+Change Component Comment: Designator=J1 Old Comment=DOMINO_2P New Comment=KF128-2P
+Add Pin To Net: Pin=PLUG-07 Old Net=MISO New Net=MOSI
+Add Pin To Net: Pin=SW1-1 Old Net=PA12 New Net=PA10
+Add Pin To Net: Pin=SW1-2 Old Net=PA11 New Net=PA9
+Change Pin Designator/Name:  Old Designator=C1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C13-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C13-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C2-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C4-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C4-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=J1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=J1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=PLUG-07 Old Name=07 New Designator =06 New Name=06

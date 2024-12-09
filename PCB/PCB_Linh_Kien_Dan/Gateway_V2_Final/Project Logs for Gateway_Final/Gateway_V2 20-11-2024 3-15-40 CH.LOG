@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=JP?
+Added Component: Designator=BT1(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP 2x4 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=3V3 Pin=JP1-5
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=JP1-4
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetLabel10 Pin=JP1-6
+Added Net: Name=NetLabel10
+Added Pin To Net: NetName=NetLabel11 Pin=JP1-7
+Added Net: Name=NetLabel11
+Added Pin To Net: NetName=NetLabel12 Pin=JP1-8
+Added Net: Name=NetLabel12
+Added Pin To Net: NetName=NetLabel13 Pin=JP1-1
+Added Net: Name=NetLabel13
+Added Pin To Net: NetName=NetLabel14 Pin=JP1-2
+Added Net: Name=NetLabel14
+Added Pin To Net: NetName=NetLabel15 Pin=JP1-3
+Added Net: Name=NetLabel15
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component JP1 JP 2x4 2.54

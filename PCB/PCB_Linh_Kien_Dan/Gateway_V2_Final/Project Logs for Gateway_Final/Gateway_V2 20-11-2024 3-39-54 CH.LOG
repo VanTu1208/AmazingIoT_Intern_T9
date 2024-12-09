@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=5V Pin=JP5-1
+Removed Pin From Net: NetName=PA10/REL9 Pin=JP5-2
+Removed Pin From Net: NetName=PA11/REL10 Pin=JP5-3
+Removed Pin From Net: NetName=PA12/REL11 Pin=JP5-4
+Removed Pin From Net: NetName=PB3/REL12 Pin=JP5-5
+Removed Pin From Net: NetName=PB4/REL13 Pin=JP5-6
+Removed Pin From Net: NetName=PB5/REL14 Pin=JP5-7
+Removed Pin From Net: NetName=PB6/REL15 Pin=JP5-8
+Removed Pin From Net: NetName=PB7/REL16 Pin=JP5-9
+Removed Pin From Net: NetName=GND Pin=JP5-10
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=JP5
+Added Component: Designator=S?(SW-DIP4)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "04"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB5/REL14 Pin=JP1-1
+Added Pin To Net: NetName=PB6/REL15 Pin=JP1-2
+Added Pin To Net: NetName=PB7/REL16 Pin=JP1-3
+Added Pin To Net: NetName=PB4/REL13 Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-3
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Pin To Net: NetName=PA10/REL9 Pin=S?-5
+Added Pin To Net: NetName=PA11/REL10 Pin=S?-6
+Added Pin To Net: NetName=PA12/REL11 Pin=S?-7
+Added Pin To Net: NetName=PB3/REL12 Pin=S?-8
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component S?

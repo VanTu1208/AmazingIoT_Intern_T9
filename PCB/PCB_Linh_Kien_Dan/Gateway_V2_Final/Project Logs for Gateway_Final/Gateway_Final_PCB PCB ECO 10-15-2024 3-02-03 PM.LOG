@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC22_2 Pin=T1-1
+Removed Pin From Net: NetName=VSIM Pin=T1-3
+Removed Member From Class: ClassName=Gateway_Final_Schematic Member=T1
+Added Component: Designator=R20(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007293"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 2.2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC22_2 Pin=R20-1
+Added Pin To Net: NetName=VSIM Pin=R20-2
+Added Pin To Net: NetName=NetC22_2 Pin=U7-4
+Added Member To Class: ClassName=Gateway_Final_Schematic Member=Component R20 2.2k

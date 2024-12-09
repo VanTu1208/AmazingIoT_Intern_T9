@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC7_1
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C4 104
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C5 1000uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C6 1000uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C7 10uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C8 104
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C9 104
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C11 10uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C23 104
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C24 104

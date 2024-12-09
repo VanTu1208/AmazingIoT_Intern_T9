@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=PB3/REL12 Pin=JP5-5
+Added Pin To Net: NetName=PB3/REL12 Pin=U2-39
+Added Net: Name=PB3/REL12
+Added Pin To Net: NetName=PB4/REL13 Pin=JP5-6
+Added Pin To Net: NetName=PB4/REL13 Pin=U2-40
+Added Net: Name=PB4/REL13
+Added Pin To Net: NetName=PB5/REL14 Pin=JP5-7
+Added Pin To Net: NetName=PB5/REL14 Pin=U2-41
+Added Net: Name=PB5/REL14
+Added Pin To Net: NetName=PB6/REL15 Pin=JP5-8
+Added Pin To Net: NetName=PB6/REL15 Pin=U2-42
+Added Net: Name=PB6/REL15
+Added Pin To Net: NetName=PB7/REL16 Pin=JP5-9
+Added Pin To Net: NetName=PB7/REL16 Pin=U2-43
+Added Net: Name=PB7/REL16
+Added Member To Class: ClassName=Gateway_Final_Schematic Member=Component R8 100k
+Added Member To Class: ClassName=Gateway_Final_Schematic Member=Component R9 100k

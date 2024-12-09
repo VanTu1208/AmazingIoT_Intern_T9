@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=5V Pin=7RELAY-1
+Removed Pin From Net: NetName=MOSI Pin=7RELAY-2
+Removed Pin From Net: NetName=PA15 Pin=7RELAY-3
+Removed Pin From Net: NetName=RST Pin=7RELAY-4
+Removed Pin From Net: NetName=PB1 Pin=7RELAY-5
+Removed Pin From Net: NetName=PB3 Pin=7RELAY-6
+Removed Pin From Net: NetName=PB4 Pin=7RELAY-7
+Removed Pin From Net: NetName=PB5 Pin=7RELAY-8
+Removed Pin From Net: NetName=GND Pin=7RELAY-9
+Change Component Comment : Designator=6RELAY Old Comment=JP 1x8 2.54 New Comment=6_RELAY
+Change Component Designator: OldDesignator=6RELAY NewDesignator=JP?
+Change Component Designator: OldDesignator=GND NewDesignator=GND_3P
+Change Component Designator: OldDesignator=J-Link NewDesignator=P2
+Change Component Designator: OldDesignator=JACK DC NewDesignator=JACK DC?
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED 1
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED 2
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED 3
+Change Component Designator: OldDesignator=LORA-8000M NewDesignator=JP?
+Change Component Designator: OldDesignator=VCC NewDesignator=3V3-5V
+Added Component: Designator=JP?(JP 1x8 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=MOSI Pin=JP?-2
+Added Pin To Net: NetName=PA15 Pin=JP?-3
+Added Pin To Net: NetName=RST Pin=JP?-4
+Added Pin To Net: NetName=PB3 Pin=JP?-5
+Added Pin To Net: NetName=PB4 Pin=JP?-6
+Added Pin To Net: NetName=PB5 Pin=JP?-7
+Added Pin To Net: NetName=GND Pin=JP?-8
+Added Member To Class: ClassName=Node_Schematic Member=Component 3V3-5V
+Added Member To Class: ClassName=Node_Schematic Member=Component GND_3P GND
+Added Member To Class: ClassName=Node_Schematic Member=Component JACK DC? JACK DC 5.5
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? LORA 8000M
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component LED 1 LED 3mm
+Added Member To Class: ClassName=Node_Schematic Member=Component LED 2 LED 3mm
+Added Member To Class: ClassName=Node_Schematic Member=Component LED 3 LED 3mm
+Added Member To Class: ClassName=Node_Schematic Member=Component P2 SWD
+Added Room: Name=Node_Schematic

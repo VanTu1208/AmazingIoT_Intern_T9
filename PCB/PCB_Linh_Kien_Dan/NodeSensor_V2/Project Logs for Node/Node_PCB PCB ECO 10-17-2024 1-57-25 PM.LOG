@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator=BOOT NewDesignator=P1
+Change Component Designator: OldDesignator=BUZZER NewDesignator=LS1
+Change Component Designator: OldDesignator=DHT11 NewDesignator=JP3
+Change Component Designator: OldDesignator=DIP8 NewDesignator=SW1
+Change Component Designator: OldDesignator=I2C NewDesignator=J1
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC?
+Change Component Designator: OldDesignator=JLINK NewDesignator=P2
+Change Component Designator: OldDesignator=LORA NewDesignator=JP4
+Change Component Designator: OldDesignator=MQ135 NewDesignator=JP1
+Change Component Designator: OldDesignator=MQ136 NewDesignator=JP2
+Change Component Designator: OldDesignator=POWER NewDesignator=J2
+Change Component Designator: OldDesignator=RESET NewDesignator=BT1
+Added Component: Designator=R11(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1.5k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 1.5k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=SDA Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R12-1
+Added Pin To Net: NetName=SCL Pin=R12-2
+Added Member To Class: ClassName=Node_Schematic Member=Component C11 20pF
+Added Member To Class: ClassName=Node_Schematic Member=Component R11 1.5k
+Added Member To Class: ClassName=Node_Schematic Member=Component R12 1.5k
+Added Member To Class: ClassName=Node_Schematic Member=Component U2 LM2576S-5.0/NOPB
+Added Room: Name=Node_Schematic

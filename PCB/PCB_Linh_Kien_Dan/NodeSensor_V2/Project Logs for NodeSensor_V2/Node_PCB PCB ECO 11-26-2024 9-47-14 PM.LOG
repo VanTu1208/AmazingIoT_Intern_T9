@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R10-2
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=Node_Schematic Member=Component JDC Jac DC
+Added Room: Name=Node_Schematic

@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=SCK Pin=PLUG-06
+Added Member To Class: ClassName=Node_Schematic Member=Component Y1 32.768KHZ-TR

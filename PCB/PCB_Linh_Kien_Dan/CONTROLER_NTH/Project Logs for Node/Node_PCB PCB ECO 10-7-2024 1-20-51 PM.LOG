@@ -1,0 +1,41 @@
+Added Component: Designator=SW1(418117270908)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Raise Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Dip Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/418117270908?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/418117270908?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "418117270908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WS-DITV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operation Force"; Value = "800g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Non-Switching"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current Switching"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Non-Switching"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage Switching"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA10 Pin=SW1-1
+Added Pin To Net: NetName=PA9 Pin=SW1-2
+Added Pin To Net: NetName=PA8 Pin=SW1-3
+Added Pin To Net: NetName=PB15 Pin=SW1-4
+Added Pin To Net: NetName=PB14 Pin=SW1-5
+Added Pin To Net: NetName=PB13 Pin=SW1-6
+Added Pin To Net: NetName=PB12 Pin=SW1-7
+Added Pin To Net: NetName=PB11 Pin=SW1-8
+Added Pin To Net: NetName=GND Pin=SW1-9
+Added Pin To Net: NetName=GND Pin=SW1-10
+Added Pin To Net: NetName=GND Pin=SW1-11
+Added Pin To Net: NetName=GND Pin=SW1-12
+Added Pin To Net: NetName=GND Pin=SW1-13
+Added Pin To Net: NetName=GND Pin=SW1-14
+Added Pin To Net: NetName=GND Pin=SW1-15
+Added Pin To Net: NetName=GND Pin=SW1-16
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Member To Class: ClassName=Node_Schematic Member=Component SW1 418117270908

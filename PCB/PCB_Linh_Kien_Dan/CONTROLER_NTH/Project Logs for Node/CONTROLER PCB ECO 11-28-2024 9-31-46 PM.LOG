@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=6_RELAY NewDesignator=JP?
+Change Component Designator: OldDesignator=6_RELAY NewDesignator=JP?
+Added Member To Class: ClassName=Node_Schematic Member=Component C7 20pF
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? LORA 8000M
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component R9 1M
+Added Member To Class: ClassName=Node_Schematic Member=Component Y2 8.000MHZ
+Added Room: Name=Node_Schematic

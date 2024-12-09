@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=IO12/MISO Pin=JP1-1
+Removed Pin From Net: NetName=IO14/SCK Pin=JP1-2
+Removed Pin From Net: NetName=PB7/REL16 Pin=JP1-3
+Removed Pin From Net: NetName=IO13/MOSI Pin=JP1-7
+Removed Pin From Net: NetName=PB4/REL13 Pin=JP1-8
+Removed Pin From Net: NetName=5V Pin=JP4-1
+Removed Pin From Net: NetName=PA0/REL1 Pin=JP4-2
+Removed Pin From Net: NetName=PA1/REL2 Pin=JP4-3
+Removed Pin From Net: NetName=PA4/REL3 Pin=JP4-4
+Removed Pin From Net: NetName=PA5/REL4 Pin=JP4-5
+Removed Pin From Net: NetName=PA6/REL5 Pin=JP4-6
+Removed Pin From Net: NetName=PA7/REL6 Pin=JP4-7
+Removed Pin From Net: NetName=PA8/REL7 Pin=JP4-8
+Removed Pin From Net: NetName=PA9/REL8 Pin=JP4-9
+Removed Pin From Net: NetName=GND Pin=JP4-10
+Removed Pin From Net: NetName=PA10/REL9 Pin=S?-5
+Removed Pin From Net: NetName=PA11/REL10 Pin=S?-6
+Removed Pin From Net: NetName=PA12/REL11 Pin=S?-7
+Removed Pin From Net: NetName=PB3/REL12 Pin=S?-8
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=JP4
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Added Component: Designator=JP2(JP 1x10 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA6/REL5 Pin=JP1-1
+Added Pin To Net: NetName=PA5/REL4 Pin=JP1-2
+Added Pin To Net: NetName=PA4/REL3 Pin=JP1-6
+Added Pin To Net: NetName=PA7/REL6 Pin=JP1-7
+Added Pin To Net: NetName=5V Pin=JP2-1
+Added Pin To Net: NetName=PA10/REL9 Pin=JP2-2
+Added Pin To Net: NetName=PA11/REL10 Pin=JP2-3
+Added Pin To Net: NetName=PA12/REL11 Pin=JP2-4
+Added Pin To Net: NetName=PB3/REL12 Pin=JP2-5
+Added Pin To Net: NetName=PB4/REL13 Pin=JP2-6
+Added Pin To Net: NetName=PB5/REL14 Pin=JP2-7
+Added Pin To Net: NetName=PB6/REL15 Pin=JP2-8
+Added Pin To Net: NetName=PB7/REL16 Pin=JP2-9
+Added Pin To Net: NetName=GND Pin=JP2-10
+Added Pin To Net: NetName=PA8/REL7 Pin=S1-5
+Added Pin To Net: NetName=PA0/REL1 Pin=S1-6
+Added Pin To Net: NetName=PA1/REL2 Pin=S1-7
+Added Pin To Net: NetName=PA9/REL8 Pin=S1-8
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component JP2 JP 1x10 2.54

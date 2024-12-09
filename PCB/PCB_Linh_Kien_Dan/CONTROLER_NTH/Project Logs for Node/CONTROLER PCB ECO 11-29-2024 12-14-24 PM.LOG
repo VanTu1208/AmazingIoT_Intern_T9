@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=12V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Added Component: Designator=C8(tu tantalum smd7343)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002347"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 107E-100uF 25V SMD7343"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Change Class Name : Old Net Name=Node_Schematic New Net Name=CONTROLER
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=CONTROLER Member=Component JP? LORA 8000M
+Added Room: Name=CONTROLER

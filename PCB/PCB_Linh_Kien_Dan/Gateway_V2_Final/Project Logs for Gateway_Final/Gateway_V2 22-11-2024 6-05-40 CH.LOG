@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C1 Old Footprint=tu 0805 New Footprint=tu tantalum smd7343
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C14 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C1 Old Comment=224 New Comment=22uF
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change component parameters: Designator = "C1" ("C1"); Footprint = "tu 0805"; UniqueID = "\WZHADGIO" ("\WZHADGIO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH007975"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 226E-22uF 25V SMD7343"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C6 100uF

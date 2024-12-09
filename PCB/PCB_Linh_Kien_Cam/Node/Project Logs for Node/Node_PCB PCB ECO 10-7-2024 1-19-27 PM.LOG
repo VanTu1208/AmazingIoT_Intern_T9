@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135

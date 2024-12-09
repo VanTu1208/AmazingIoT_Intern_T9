@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=IO19 Pin=JP?-1
+Added Pin To Net: NetName=IO18 Pin=JP?-2
+Added Pin To Net: NetName=IO4 Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-4
+Added Pin To Net: NetName=3V3 Pin=JP?-5
+Added Pin To Net: NetName=IO5 Pin=JP?-6
+Added Pin To Net: NetName=IO23 Pin=JP?-7
+Added Pin To Net: NetName=IO2 Pin=JP?-8
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetIC?_1" already exists
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 0.1uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 22uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 10uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 4.7uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 1uF
+Added Member To Class: ClassName=Gateway_Schematic Member=Component C? 10uF/25V/C0805/10%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component D? SS34
+Added Member To Class: ClassName=Gateway_Schematic Member=Component IC? LM317
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 240
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 240
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 220
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 750
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 0R/R0805/1%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 390
+Added Member To Class: ClassName=Gateway_Schematic Member=Component R? 10K/R0805/1%
+Added Member To Class: ClassName=Gateway_Schematic Member=Component U? RA-02

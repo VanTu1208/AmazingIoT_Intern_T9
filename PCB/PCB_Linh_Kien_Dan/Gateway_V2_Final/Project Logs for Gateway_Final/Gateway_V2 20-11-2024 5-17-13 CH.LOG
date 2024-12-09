@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=BT Lora-1
+Removed Pin From Net: NetName=3V3 Pin=Lora-5
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=BT Lora
+Change Component Designator: OldDesignator=DIP SW NewDesignator=S1
+Change Component Designator: OldDesignator=Lora NewDesignator=JP1
+Added Component: Designator=SW4(SW1-SMD)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=3V3 Pin=SW4-2
+Change Net Name : Old Net Name=PA4/REL3 New Net Name=NSS
+Change Net Name : Old Net Name=PA5/REL4 New Net Name=SCK
+Change Net Name : Old Net Name=PA6/REL5 New Net Name=MISO
+Change Net Name : Old Net Name=PA7/REL6 New Net Name=MOSI
+Change Net Name : Old Net Name=PB13 New Net Name=RST(PB13)
+Added Pin To Net: NetName=NetJP1_5 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_5 Pin=SW4-1
+Added Net: Name=NetJP1_5
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component SW4 SW

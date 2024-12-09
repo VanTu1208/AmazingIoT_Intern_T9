@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=5V Pin=JP?-1
+Removed Pin From Net: NetName=5V Pin=JP?-1
+Removed Pin From Net: NetName=PA0 Pin=JP?-2
+Removed Pin From Net: NetName=PA12 Pin=JP?-2
+Removed Pin From Net: NetName=PA1 Pin=JP?-3
+Removed Pin From Net: NetName=PA15 Pin=JP?-3
+Removed Pin From Net: NetName=PA2 Pin=JP?-4
+Removed Pin From Net: NetName=PB3 Pin=JP?-4
+Removed Pin From Net: NetName=PA3 Pin=JP?-5
+Removed Pin From Net: NetName=PB4 Pin=JP?-5
+Removed Pin From Net: NetName=PA10 Pin=JP?-6
+Removed Pin From Net: NetName=PB5 Pin=JP?-6
+Removed Pin From Net: NetName=GND Pin=JP?-7
+Removed Pin From Net: NetName=PA11 Pin=JP?-7
+Removed Pin From Net: NetName=GND Pin=JP?-8
+Removed Pin From Net: NetName=GND Pin=JP?-8
+Change Component Designator: OldDesignator=STLINK NewDesignator=P2
+Added Component: Designator=JP?(JP 1x7 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x7 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-1
+Added Pin To Net: NetName=PA0 Pin=JP?-2
+Added Pin To Net: NetName=PA12 Pin=JP?-2
+Added Pin To Net: NetName=PA1 Pin=JP?-3
+Added Pin To Net: NetName=PA15 Pin=JP?-3
+Added Pin To Net: NetName=PA2 Pin=JP?-4
+Added Pin To Net: NetName=PB3 Pin=JP?-4
+Added Pin To Net: NetName=PA3 Pin=JP?-5
+Added Pin To Net: NetName=PB4 Pin=JP?-5
+Added Pin To Net: NetName=PA11 Pin=JP?-6
+Added Pin To Net: NetName=PB5 Pin=JP?-6
+Added Pin To Net: NetName=GND Pin=JP?-7
+Added Pin To Net: NetName=GND Pin=JP?-7
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 5_RELAY
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 5_RELAY
+Added Room: Name=CONTROLER

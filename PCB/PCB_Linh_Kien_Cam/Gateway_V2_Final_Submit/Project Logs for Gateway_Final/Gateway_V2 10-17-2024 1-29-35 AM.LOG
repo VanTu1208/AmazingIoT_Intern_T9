@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IO34 Pin=R16-1
+Removed Pin From Net: NetName=IO35 Pin=R17-1
+Added Pin To Net: NetName=IO25 Pin=R16-1
+Added Pin To Net: NetName=IO26 Pin=R17-1
+Change Class Name : Old Net Name=Gateway_Final_Schematic New Net Name=Gateway_V2.0_Final_Schematic
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component JDC1 Jac DC 12V

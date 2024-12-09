@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V_ESP Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=Q3-3
+Added Pin To Net: NetName=3V3_ESP Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=R15-2

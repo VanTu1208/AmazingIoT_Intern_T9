@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SDA Pin=J1-1
+Removed Pin From Net: NetName=SCL Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=5V Pin=J2-3
+Added Pin To Net: NetName=SCL Pin=J1-1
+Added Pin To Net: NetName=SDA Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Room: Name=Node_Schematic

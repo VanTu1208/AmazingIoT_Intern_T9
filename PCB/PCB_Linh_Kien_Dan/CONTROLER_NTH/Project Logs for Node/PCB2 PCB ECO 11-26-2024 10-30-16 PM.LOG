@@ -1,0 +1,11 @@
+Added Component: Designator=Y1(XTAL_ABS25-32.768KHZ-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS25-32.768KHZ-TR/Abracon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS25-32.768KHZ-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS25-32.768KHZ-TR/Abracon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=PLUG-06
+Added Pin To Net: NetName=PC14 Pin=Y1-1
+Added Pin To Net: NetName=PC15 Pin=Y1-4
+Added Member To Class: ClassName=Node_Schematic Member=Component Y1 32.768KHZ-TR

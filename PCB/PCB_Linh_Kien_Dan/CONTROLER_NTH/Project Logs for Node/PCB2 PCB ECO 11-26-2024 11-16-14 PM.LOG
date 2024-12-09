@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=GND-01
+Removed Pin From Net: NetName=GND Pin=GND-02
+Removed Pin From Net: NetName=GND Pin=GND-03
+Removed Pin From Net: NetName=3V3 Pin=VCC-01
+Removed Pin From Net: NetName=5V Pin=VCC-02
+Removed Pin From Net: NetName=5V Pin=VCC-03
+Removed Member From Class: ClassName=Node_Schematic Member=GND
+Removed Member From Class: ClassName=Node_Schematic Member=VCC
+Added Component: Designator=JP?(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-3
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? JP 1x8 2.54
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? HEADER_7RELAY
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? LORA 8000M
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? 3V3-5V

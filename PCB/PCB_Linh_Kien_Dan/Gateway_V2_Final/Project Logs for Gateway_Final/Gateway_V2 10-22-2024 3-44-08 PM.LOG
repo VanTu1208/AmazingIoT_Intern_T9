@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO19 Pin=LORA-1
+Removed Pin From Net: NetName=IO18 Pin=LORA-2
+Removed Pin From Net: NetName=IO4/INT Pin=LORA-3
+Removed Pin From Net: NetName=GND Pin=LORA-4
+Removed Pin From Net: NetName=3V3 Pin=LORA-5
+Removed Pin From Net: NetName=IO5 Pin=LORA-6
+Removed Pin From Net: NetName=IO23 Pin=LORA-7
+Removed Pin From Net: NetName=IO2 Pin=LORA-8
+Removed Member From Class: ClassName=Gateway_V2.0_Final_Schematic Member=LORA

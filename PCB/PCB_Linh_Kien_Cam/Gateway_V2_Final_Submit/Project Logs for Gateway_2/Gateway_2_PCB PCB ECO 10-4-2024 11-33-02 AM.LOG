@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-24
+Removed Pin From Net: NetName=GND Pin=U2-36
+Removed Pin From Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Pin To Net: NetName=3V3 Pin=U2-24
+Added Pin To Net: NetName=3V3 Pin=U2-36
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Added Member To Class: ClassName=Gateway_2_Schematic Member=Component JP3 JP 2x3 2.54

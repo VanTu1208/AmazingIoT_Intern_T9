@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=JP7-1
+Removed Pin From Net: NetName=PA2/U2_TX Pin=JP7-2
+Removed Pin From Net: NetName=PA3/U3_RX Pin=JP7-3
+Removed Pin From Net: NetName=GND Pin=JP7-4
+Removed Member From Class: ClassName=Gateway_2_Schematic Member=JP7
+Added Component: Designator=XH?(XH4/2.54mm/90)
+Added Pin To Net: NetName=5V Pin=XH?-1
+Added Pin To Net: NetName=PA2/U2_TX Pin=XH?-2
+Added Pin To Net: NetName=PA3/U3_RX Pin=XH?-3
+Added Pin To Net: NetName=GND Pin=XH?-4
+Change Class Name : Old Net Name=Gateway_2_Schematic New Net Name=Gateway_3_Schematic
+Added Member To Class: ClassName=Gateway_3_Schematic Member=Component XH? XH4

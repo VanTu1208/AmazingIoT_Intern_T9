@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXD2 Pin=JP?-4
+Change Component Comment : Designator=JP? Old Comment=JP 1x3 2.54 New Comment=UART
+Added Pin To Net: NetName=TXD2 Pin=JP?-1
+Added Pin To Net: NetName=RXD2 Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-3
+Added Pin To Net: NetName=TXD1 Pin=JP?-4
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? UART
+Added Room: Name=Node_Schematic

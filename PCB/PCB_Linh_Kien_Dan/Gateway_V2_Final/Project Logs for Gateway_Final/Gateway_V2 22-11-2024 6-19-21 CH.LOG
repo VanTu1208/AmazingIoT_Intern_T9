@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=C8 Old Footprint=tu nhom 4 (b) New Footprint=tu tantalum smd7343
+Change Component Footprint: Designator=C17 Old Footprint=tu tantalum dip5.08 New Footprint=tu 0805
+Change Component Footprint: Designator=C18 Old Footprint=tu tantalum dip5.08 New Footprint=tu 0805
+Change Component Footprint: Designator=C19 Old Footprint=tu tantalum dip5.08 New Footprint=tu 0805
+Change Component Footprint: Designator=C20 Old Footprint=tu tantalum dip5.08 New Footprint=tu 0805
+Change Component Comment : Designator=C17 Old Comment=100nF New Comment=104
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=104
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=104
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=104
+Change component parameters: Designator = "C8" ("C8"); Footprint = "tu nhom 4 (b)"; UniqueID = "\RTSEWQLJ" ("\RTSEWQLJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH001955"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? tantalum 106V-10uF 35V SMD7343"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "tu tantalum dip5.08"; UniqueID = "\MHXDJLEL" ("\MHXDJLEL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "tu tantalum dip5.08"; UniqueID = "\JNRPWSAO" ("\JNRPWSAO")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "tu tantalum dip5.08"; UniqueID = "\EDRIJHUI" ("\EDRIJHUI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "tu tantalum dip5.08"; UniqueID = "\MYCEDUPJ" ("\MYCEDUPJ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C9 JP7
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C10 10uF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C13 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C21 20pF
+Added Member To Class: ClassName=Gateway_V2.0_Final_Schematic Member=Component C22 20pF

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=MOSI Pin=JP?-2
+Removed Pin From Net: NetName=PA1 Pin=JP?-2
+Removed Pin From Net: NetName=PA2 Pin=JP?-3
+Removed Pin From Net: NetName=PA3 Pin=JP?-4
+Removed Pin From Net: NetName=RST Pin=JP?-4
+Removed Pin From Net: NetName=NSS Pin=JP?-5
+Removed Pin From Net: NetName=PB3 Pin=JP?-5
+Removed Pin From Net: NetName=PB4 Pin=JP?-6
+Removed Pin From Net: NetName=SCK Pin=JP?-6
+Removed Pin From Net: NetName=MISO Pin=JP?-7
+Removed Pin From Net: NetName=PB5 Pin=JP?-7
+Removed Pin From Net: NetName=PB9 Pin=LORA_8000M-1
+Removed Pin From Net: NetName=D0 Pin=LORA_8000M-2
+Removed Pin From Net: NetName=PA9 Pin=LORA_8000M-3
+Removed Pin From Net: NetName=PA10 Pin=LORA_8000M-4
+Removed Pin From Net: NetName=PA0 Pin=LORA_8000M-5
+Removed Pin From Net: NetName=SWIO Pin=R5-2
+Removed Pin From Net: NetName=PA10 Pin=R13-2
+Removed Pin From Net: NetName=PA12 Pin=R14-2
+Removed Pin From Net: NetName=5V Pin=R15-1
+Removed Pin From Net: NetName=PA12 Pin=R15-2
+Removed Pin From Net: NetName=PA12 Pin=SW1-1
+Removed Pin From Net: NetName=PA11 Pin=SW1-2
+Removed Pin From Net: NetName=PB10 Pin=U1-21
+Removed Pin From Net: NetName=5V Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=CONTROLER Member=R13
+Removed Member From Class: ClassName=CONTROLER Member=R14
+Removed Member From Class: ClassName=CONTROLER Member=R15
+Removed Member From Class: ClassName=CONTROLER Member=USB1
+Change Component Designator: OldDesignator=BOOT NewDesignator=P1
+Change Component Designator: OldDesignator=LORA_8000M NewDesignator=JP?
+Change Component Designator: OldDesignator=STLINK NewDesignator=P2
+Added Component: Designator=UART(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NSS Pin=JP?-1
+Added Pin To Net: NetName=PA0 Pin=JP?-2
+Added Pin To Net: NetName=PA12 Pin=JP?-2
+Added Pin To Net: NetName=SCK Pin=JP?-2
+Added Pin To Net: NetName=PA1 Pin=JP?-3
+Added Pin To Net: NetName=PA2 Pin=JP?-4
+Added Pin To Net: NetName=PB3 Pin=JP?-4
+Added Pin To Net: NetName=MISO Pin=JP?-5
+Added Pin To Net: NetName=PA3 Pin=JP?-5
+Added Pin To Net: NetName=PB4 Pin=JP?-5
+Added Pin To Net: NetName=PA10 Pin=JP?-6
+Added Pin To Net: NetName=PB5 Pin=JP?-6
+Added Pin To Net: NetName=GND Pin=JP?-7
+Added Pin To Net: NetName=PA11 Pin=JP?-7
+Added Pin To Net: NetName=PC13 Pin=R5-2
+Added Pin To Net: NetName=MOSI Pin=SW1-1
+Added Pin To Net: NetName=D0 Pin=SW1-2
+Added Pin To Net: NetName=PB9 Pin=SW1-8
+Added Pin To Net: NetName=PA9 Pin=UART-1
+Added Pin To Net: NetName=PA10 Pin=UART-2
+Added Pin To Net: NetName=GND Pin=UART-3
+Added Pin To Net: NetName=RXD2 Pin=JP?-3
+Added Pin To Net: NetName=RXD2 Pin=U1-22
+Added Net: Name=RXD2
+Added Pin To Net: NetName=TXD2 Pin=JP?-4
+Added Pin To Net: NetName=TXD2 Pin=U1-21
+Added Net: Name=TXD2
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=CONTROLER Member=Component JP? 6_RELAY
+Added Member To Class: ClassName=CONTROLER Member=Component UART
+Added Room: Name=CONTROLER

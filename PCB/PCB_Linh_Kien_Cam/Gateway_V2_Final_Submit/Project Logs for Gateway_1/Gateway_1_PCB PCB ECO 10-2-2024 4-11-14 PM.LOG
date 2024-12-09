@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R18
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR18_2
+Added Member To Class: ClassName=Gateway_1_Schematic Member=Component JP3 JP 2x3 2.54
+Added Member To Class: ClassName=Gateway_1_Schematic Member=Component R18 4.7k

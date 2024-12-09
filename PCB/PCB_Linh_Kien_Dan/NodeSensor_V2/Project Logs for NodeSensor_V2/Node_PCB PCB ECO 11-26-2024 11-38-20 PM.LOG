@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB3 Pin=R11-1
+Removed Pin From Net: NetName=PB5 Pin=R13-1
+Added Pin To Net: NetName=PB5 Pin=R11-1
+Added Pin To Net: NetName=PB3 Pin=R13-1
+Added Member To Class: ClassName=Node_Schematic Member=Component JP1 MQ135
+Added Member To Class: ClassName=Node_Schematic Member=Component SW1 418117270908
+Added Room: Name=Node_Schematic

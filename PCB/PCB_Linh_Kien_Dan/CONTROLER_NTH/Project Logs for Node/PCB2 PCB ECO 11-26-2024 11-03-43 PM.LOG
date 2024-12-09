@@ -1,0 +1,9 @@
+Added Component: Designator=H?(VH3.96M-9)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 8P XH2.54-8P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=PLUG-06
+Added Member To Class: ClassName=Node_Schematic Member=Component H? Header 9P VH3.96 Duc Thang

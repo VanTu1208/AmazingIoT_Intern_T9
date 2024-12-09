@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IO16/RX Pin=U2-21
+Removed Pin From Net: NetName=IO17/TX Pin=U2-22
+Removed Pin From Net: NetName=PA2/U2_TX Pin=XH1-2
+Removed Pin From Net: NetName=PA3/U2_RX Pin=XH1-3
+Added Pin To Net: NetName=IO33 Pin=U2-21
+Added Pin To Net: NetName=IO32 Pin=U2-22
+Added Pin To Net: NetName=IO17/TX Pin=XH1-2
+Added Pin To Net: NetName=IO16/RX Pin=XH1-3

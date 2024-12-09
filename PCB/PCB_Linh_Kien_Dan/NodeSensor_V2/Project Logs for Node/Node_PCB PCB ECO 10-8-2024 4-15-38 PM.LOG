@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SCL Pin=I2C-1
+Removed Pin From Net: NetName=SDA Pin=I2C-2
+Removed Pin From Net: NetName=GND Pin=POWER-1
+Removed Pin From Net: NetName=3V3 Pin=POWER-2
+Removed Pin From Net: NetName=5V Pin=POWER-3
+Change Component Designator: OldDesignator=DHT11 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP4
+Change Component Designator: OldDesignator=MQ135 NewDesignator=JP1
+Change Component Designator: OldDesignator=MQ136 NewDesignator=JP2
+Added Component: Designator=J1(KF128-5.08-2P)
+Added Component: Designator=J2(KF128-5.08-3P)
+Added Pin To Net: NetName=SDA Pin=J1-1
+Added Pin To Net: NetName=SCL Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=5V Pin=J2-3
+Added Member To Class: ClassName=Node_Schematic Member=Component J1 KF128-2P
+Added Member To Class: ClassName=Node_Schematic Member=Component J2 KF128-3P
+Added Member To Class: ClassName=Node_Schematic Member=Component JP2 MQ136
+Added Member To Class: ClassName=Node_Schematic Member=Component JP3 DHT11
+Added Member To Class: ClassName=Node_Schematic Member=Component JP4 Header - Lora
+Added Member To Class: ClassName=Node_Schematic Member=Component P1 Header 3X2
+Added Member To Class: ClassName=Node_Schematic Member=Component P2 SWD
+Added Room: Name=Node_Schematic

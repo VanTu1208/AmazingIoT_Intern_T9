@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=PA11 Pin=R6-2
+Removed Pin From Net: NetName=PA12 Pin=R7-2
+Removed Pin From Net: NetName=PA12 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=USB?-4
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Pin From Net: NetName=GND Pin=USB?-5
+Removed Member From Class: ClassName=Node_Schematic Member=R6
+Removed Member From Class: ClassName=Node_Schematic Member=R7
+Removed Member From Class: ClassName=Node_Schematic Member=R8
+Removed Member From Class: ClassName=Node_Schematic Member=USB?
+Added Component: Designator=JP?(JP 1x3 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB9 Pin=SW1-8
+Change Net Name : Old Net Name=RXD New Net Name=RXD1
+Added Pin To Net: NetName=PB0 Pin=R10-1
+Added Pin To Net: NetName=PB0 Pin=U1-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=RXD2 Pin=U1-22
+Added Net: Name=RXD2
+Added Pin To Net: NetName=TXD1 Pin=U1-30
+Added Net: Name=TXD1
+Added Pin To Net: NetName=TXD2 Pin=JP?-4
+Added Pin To Net: NetName=TXD2 Pin=U1-21
+Added Net: Name=TXD2
+Added Member To Class: ClassName=Node_Schematic Member=Component JP? JP 1x3 2.54
+Added Room: Name=Node_Schematic
